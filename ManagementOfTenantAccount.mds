@@ -1,12 +1,12 @@
-## Management of Tenant Accounts
+# Management of Tenant Accounts
 This feature is used to facilitate easy management and updates for tenant accounts.
 
-# Input:
+## Input:
 * Landlords shall initiate actions to manage and update tenant accounts.
 
-# Process:
+## Process:
 * Landlords shall add, edit, or delete tenant information.
 * Landlords shall initiate actions to manage and update tenant accounts.
 
-# Output:
+## Output:
 * Tenant account information is updated, and notifications are sent accordingly.
