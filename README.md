@@ -4,7 +4,7 @@
 SmartRent is an Android-based application designed to streamline payment management systems for boarding houses near Visayas State University (VSU). The application addresses the challenges associated with manual payment tracking and informal communication channels between landlords and tenants.
 
 ## Key Features:
-- **Payment Tracking**: Real-time monitoring of payment activities.
+- [**Payment Tracking**](https://github.com/Khenz0/upa-han/blob/main/PaymentTracking.md): Real-time monitoring of payment activities.
 - **Tenant Account Management**: Facilitates easy management and updates for tenant accounts.
 - **Efficient Order Processing**: Smooth and secure processing of payment transactions.
 - **Notification System**: Automated reminders for tenants regarding due payments.
