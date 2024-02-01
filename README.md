@@ -5,9 +5,9 @@ SmartRent is an Android-based application designed to streamline payment managem
 
 ## Key Features:
 - [**Payment Tracking**](https://github.com/Khenz0/upa-han/blob/main/PaymentTracking.md): Real-time monitoring of payment activities.
-- **Tenant Account Management**: Facilitates easy management and updates for tenant accounts.
-- **Efficient Order Processing**: Smooth and secure processing of payment transactions.
-- **Notification System**: Automated reminders for tenants regarding due payments.
+- [**Tenant Account Management**](https://github.com/Khenz0/upa-han/blob/main/ManagementOfTenantAccount.md): Facilitates easy management and updates for tenant accounts.
+- [**Efficient Order Processing**](https://github.com/Khenz0/upa-han/blob/main/EfficientOrderProcessing.md): Smooth and secure processing of payment transactions.
+- [**Notification System**](https://github.com/Khenz0/upa-han/blob/main/NotificationSystem.md): Automated reminders for tenants regarding due payments.
 
 ## Scope:
 - **Target Users**: Landlords and tenants of boarding houses within a 10-kilometer radius of VSU.
