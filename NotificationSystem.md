@@ -17,3 +17,10 @@ This feature automatically alerts landowners and tenants through notifications a
 * Maintain a log of notifications sent, including details such as notification ID, recipient, timestamp, and related payment information.
 
 ## Data Dictionary
+| Element ID | Element Text | Element Type | Data Type | Required | Rules |
+| --- | --- | --- | --- | --- | --- |
+| tenant_name | Tenant Name | Tenant Information | Text | Yes | Maximum length of 100 characters. |
+| tenant_contactInfo | Tenant Contact Number | Tenant Information | Text | Yes | Number is Philippine Standard(+63) and only contains elements from 0-9 and a ‘+’. |
+| payment_date | Payment Date | Payment Details for Tenants | Date | Yes |   |
+| landowner_name | Landowner Name | Owner Information | Text | Yes | Maximum length of 100 characters. |
+| landowner_contactInfo | Landowner Contact Number | Owner Information | Text | Yes | Number is Philippine Standard(+63) and only contains elements from 0-9 and a ‘+’. |
