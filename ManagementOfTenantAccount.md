@@ -25,4 +25,4 @@ This feature is used to facilitate easy management and updates for tenant accoun
 | payment_date | Payment Date | Payment Details for Tenants | Date | Yes |   |
 | saveButton | Save | Button |   | Yes |   |
 | editButton | Edit | Button |   | Yes |   |
-| removeButton | Delete | Button | Yes |   |
+| removeButton | Delete | Button |   | Yes |   |
